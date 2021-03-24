@@ -18,5 +18,16 @@
             <div><a href="#">website.com</a></div>
         </div>
     </div>
+    <div class="row pt-5">
+        <div class="col-4">
+            <img src="https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://play-lh.googleusercontent.com/coMv1dl31PCfEs6essJoEUwVryaqKHKQvENdZ_WYpN-PXa8Qfitkg3grQxIVN22W5A" class="w-100">
+        </div>
+    </div>
 </div>
 @endsection
