@@ -28,7 +28,6 @@
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
                     <div><img src="images/logopic.png" style="max-height: 40px;"></div>
                     <div><img src="images/logotext.png" style="max-height: 35px; margin-top: 2px"></div>
-
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>

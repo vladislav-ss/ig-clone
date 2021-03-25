@@ -7,7 +7,7 @@
             <img src="https://pbs.twimg.com/profile_images/905183271046193153/q_P1KBUJ_400x400.jpg" class="rounded-circle" style="max-width: 150px;">
         </div>
         <div class="col-9 pt-5">
-            <h1>Name</h1>
+            <h1>{{ $user->username }}</h1>
             <div class="d-flex">
                 <div class="pr-4"><strong>121</strong> posts</div>
                 <div class="pr-4"><strong>211</strong> followers</div>
